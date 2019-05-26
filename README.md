@@ -1,6 +1,6 @@
 # SCSS-Sandbox
 
-This tutorial makes use of SCSS Functions, Maps, Mixins and Variables.
+This project makes use of SCSS Functions, Maps, Mixins and Variables.
 
 Desktop View:
 ![alt text](https://i.imgur.com/Zoi1IXi.png "Desktop View")
