@@ -80,9 +80,10 @@ main {
       list-style-type: none;
       margin: 0;
       padding: 0;
+      margin-top: .75em;
 
       li {
-        margin-bottom: 10px;
+        margin-bottom: 15px;
 
         span {
           position: absolute;
@@ -96,7 +97,7 @@ main {
         strong {
           display: inline-block;
           margin-left: max(40px);
-          margin-top: 10px;
+          margin-top: 5px;
         }
       }
     }
@@ -110,7 +111,7 @@ main {
     @include desktop {
       grid-area: primary;
       text-align: left;
-      margin: 4em 0 0 4em;
+      margin: 10em 0 0 4em;
     }
 
     h1 {
