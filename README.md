@@ -2,6 +2,10 @@
 
 This tutorial makes use of SCSS Functions, Maps, Mixins and Variables.
 
-![alt text](https://i.imgur.com/Zoi1IXi.png "Logo Title Text 1")
+Desktop View:
+![alt text](https://i.imgur.com/Zoi1IXi.png "Desktop View")
 
-![alt text](https://i.imgur.com/pM0SzuK.png "Logo Title Text 1")
+iPhone X View:
+![alt text](https://i.imgur.com/pM0SzuK.png "iPhone X View")
+
+This project uses [Clippy](https://bennettfeely.com/clippy/) to create CSS Clip Spaces.
